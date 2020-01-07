@@ -25,7 +25,7 @@ def Sort_Tuple(tup,o):
     tup.sort(key = lambda x: x[o])  
     return tup  
 
-selPts=[219,237,249,372,373]#list of pts
+selPts=[218,236,248,371,372]#list of pts
 
 @distri.remote
 def matchIt(db, q ,ident,selPts):
