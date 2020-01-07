@@ -1,0 +1,26 @@
+query acc.ver	subject acc.ver
+Query_67868	1UNE_A	
+Query_67868	1G4I	
+Query_67868	1VL9	
+Query_67868	2BCH	
+Query_67868	2BAX	
+Query_67868	1VKQ	
+Query_67868	2ZP3	
+Query_67868	2ZP4	
+Query_67868	2ZP5	
+Query_67868	1GH4	
+Query_67868	2B96	
+Query_67868	2BD1	
+Query_67868	1BP2	
+Query_67868	1C74	
+Query_67868	1MKT	
+Query_67868	1KVX	
+Query_67868	1MKV	
+Query_67868	1FDK	
+Query_67868	1CEH	
+Query_67868	1IRB	
+Query_67868	1MKU	
+Query_67868	1KVY	
+Query_67868	1MKS		
+Query_67868	1KVW		
+
